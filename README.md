@@ -1,7 +1,7 @@
 # ATM-AND-BANKING-SYSTEM
-# Reg No:
-# Name:
-# Date:
+# Reg No:212225230197
+# Name:NAVEEN M
+# Date:29/10/2026
 
 
 # AIM:
