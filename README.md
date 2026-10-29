@@ -69,6 +69,7 @@ Visually express any specific needs of a system and disseminate that information
 Create detailed charts that…
 
 
+<img width="1917" height="1040" alt="image" src="https://github.com/user-attachments/assets/30f3b1f4-788b-4cf6-a90a-19b8b53a119f" />
 
 # COMMUNICTION DIAGRAM:
 
@@ -76,6 +77,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/bfebaa41-d380-42b5-a7c2-00f42cf1bfc1" />
 
 
 
@@ -89,6 +91,7 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
+<img width="1243" height="752" alt="image" src="https://github.com/user-attachments/assets/2ad48320-61f0-46a6-82d3-8921592cb8ca" />
 
 
 
@@ -107,6 +110,7 @@ Demonstrate the logic of an algorithm.
 Describe the steps performed in a UML use case.
 
 
+<img width="1915" height="1078" alt="image" src="https://github.com/user-attachments/assets/ab317b5c-d3d5-46a3-9395-c5c2888e3b6a" />
 
 
 
@@ -128,6 +132,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 Plan and understand the detailed functionality of an existing or future scenario.
 
 
+<img width="1600" height="898" alt="image" src="https://github.com/user-attachments/assets/42987d96-d27a-4601-aaf4-c72ea21d436e" />
 
 
 
