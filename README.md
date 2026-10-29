@@ -49,6 +49,8 @@ Specifying the context and requirements of a system
 → Modeling the basic flow of events in a sina use case.
 
 
+<img width="1917" height="1002" alt="image" src="https://github.com/user-attachments/assets/935e9537-6b72-47e5-bf6f-bfc549294e93" />
+
 
 
 
@@ -111,29 +113,6 @@ Describe the steps performed in a UML use case.
 
 
 <img width="1915" height="1078" alt="image" src="https://github.com/user-attachments/assets/ab317b5c-d3d5-46a3-9395-c5c2888e3b6a" />
-
-
-
-# SEQUENCE DIAGRAM
-
-A sequence diagram is a type of intera jon diagram because it describes how- and in what order a group of objects works together. These diagrams are used by software developers and business professionals to understand requirements for
-
-a new system or to document an existing process. Sequence diagrams are sometimes known as event diagrams or event scenarios.
-
-
-# BENEFITS OF SEQUENCE DIAGRAM
-
-Sequence diagrams can be useful references for businesses and other organizations. Try drawing a sequence diagram to:
-
-Represent the details of UML use cases.
-
-Model the logic of a sophisticated procedure, function, or operation. See how objects and components interact with each other to complete a process.
-
-Plan and understand the detailed functionality of an existing or future scenario.
-
-
-<img width="1600" height="898" alt="image" src="https://github.com/user-attachments/assets/42987d96-d27a-4601-aaf4-c72ea21d436e" />
-
 
 
 
